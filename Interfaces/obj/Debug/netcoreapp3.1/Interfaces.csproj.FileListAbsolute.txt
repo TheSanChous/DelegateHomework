@@ -1,0 +1,13 @@
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Projects\C#\BasicTasks\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Projects\C#\BasicTasks\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
